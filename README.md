@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Yosias 👋
 
-<!--
-**Yosias-T/Yosias-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst | SQL | Power BI | Excel
 
-Here are some ideas to get you started:
+## About Me
+I am a General Management graduate with a minor in Economics & Finance, transitioning into data analytics with a focus on transforming business data into actionable insights. 
+I enjoy transforming raw data into meaningful insights through data cleaning, analysis, and visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+- Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+- Microsoft Office Specialist: Excel Associate (MO-200)
+
+## Technical Skills
+
+**Data Analysis**
+- SQL (PostgreSQL)
+- Power BI
+- Excel
+- Power Query
+- DAX
+
+**Programming & Web**
+- Python (Beginner)
+- HTML/CSS (Beginner)
+
+## Featured Projects
+### Toronto Airbnb Analysis
+Analyzed Toronto Airbnb listings to identify factors influencing host revenue through data cleaning, SQL analysis, and dashboard visualization.
+
+Tools:
+- pgAdmin
+- PostgreSQL
+- Excel
+- Power BI
+
+### More projects coming soon...<!--
+
+
+## Currently Learning
+
+- Advanced Power BI report design and data storytelling
+- Advanced SQL techniques for analytics and optimization
+- Statistical analysis methods, including regression and time series forecasting
+
+## Contact
+
+📫 Email: yosias.tesh@gmail.com
