@@ -1,6 +1,6 @@
 # Hi, I'm Yosias 👋
 
-Data Analyst | SQL | Power BI | Excel
+Data Analyst | Excel | SQL | Power BI
 
 ## About Me
 I am a General Management graduate with a minor in Economics & Finance, transitioning into data analytics with a focus on transforming business data into actionable insights. 
