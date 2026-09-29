@@ -1,47 +1,75 @@
 # Hi, I'm Yosias 👋
 
-Data Analyst | Excel | SQL | Power BI
+Data Analyst | Power BI | SQL | Excel
 
 ## About Me
-I am a General Management graduate with a minor in Economics & Finance, transitioning into data analytics with a focus on transforming business data into actionable insights. 
-I enjoy transforming raw data into meaningful insights through data cleaning, analysis, and visualization.
+
+I am a Business graduate with a minor in Economics & Finance, pursuing a career in data analytics. I enjoy transforming raw data into actionable insights through data cleaning, modeling, analysis, and visualization.
+
+My work focuses on building end-to-end analytics solutions using SQL, Power BI, Excel, and Power Query to support data-driven decision-making.
 
 ## Certifications
+
 - Microsoft Certified: Power BI Data Analyst Associate (PL-300)
 - Microsoft Office Specialist: Excel Associate (MO-200)
 
 ## Technical Skills
 
-**Data Analysis**
-- SQL (PostgreSQL)
+### Analytics & Business Intelligence
 - Power BI
-- Excel
-- Power Query
 - DAX
+- Data Visualization
+- Dashboard Development
+- KPI Reporting
+- Data Storytelling
 
-**Programming & Web**
+### Data Management & Modeling
+- SQL (PostgreSQL)
+- Data Cleaning
+- Data Transformation
+- Power Query
+- Relational Data Modeling
+- Dimensional Modeling
+- Star Schema Design
+- ETL / ELT Concepts
+
+### Tools
+- Power BI Desktop
+- Excel
+- PostgreSQL
+- pgAdmin
+- Git & GitHub
+
+### Programming
 - Python (Beginner)
 - HTML/CSS (Beginner)
 
 ## Featured Projects
+
 ### Toronto Airbnb Analysis
-Analyzed Toronto Airbnb listings to identify factors influencing host revenue through data cleaning, SQL analysis, and dashboard visualization.
 
-Tools:
-- pgAdmin
-- PostgreSQL
-- Excel
-- Power BI
+Designed and developed an end-to-end analytics solution to identify factors influencing Airbnb host revenue in Toronto.
 
-### More projects coming soon...<!--
+Key highlights:
+- Built a dimensional data model and reporting schema in PostgreSQL
+- Performed data cleaning and transformation using SQL
+- Developed DAX measures and KPIs in Power BI
+- Created interactive dashboards to analyze revenue drivers, occupancy trends, host performance, and listing characteristics
+- Delivered business recommendations supported by data analysis
 
+**Tools:** PostgreSQL, SQL, Power BI, DAX, Power Query, Excel
+
+➡️ View Project: https://github.com/Yosias-T/Toronto-Airbnb-Analysis
 
 ## Currently Learning
 
 - Advanced Power BI report design and data storytelling
-- Advanced SQL techniques for analytics and optimization
-- Statistical analysis methods, including regression and time series forecasting
+- Advanced SQL for analytics and performance optimization
+- Statistical analysis and forecasting techniques
+- Python for data analytics
 
 ## Contact
 
 📫 Email: yosias.tesh@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/yosias-teshome/
