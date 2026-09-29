@@ -11,7 +11,7 @@ My work focuses on building end-to-end analytics solutions using SQL, Power BI, 
 ## Certifications
 
 - Microsoft Certified: Power BI Data Analyst Associate (PL-300)
-- Microsoft Office Specialist: Excel Associate (MO-200)
+- Microsoft Office Specialist: Excel Associate (Microsoft 365 Apps)
 
 ## Technical Skills
 
