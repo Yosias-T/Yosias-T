@@ -4,7 +4,7 @@ Data Analyst | Power BI | SQL | Excel
 
 ## About Me
 
-I am a Business graduate with a minor in Economics & Finance, pursuing a career in data analytics. I enjoy transforming raw data into actionable insights through data cleaning, modeling, analysis, and visualization.
+I am a Business graduate with a minor in Economics & Finance, pursuing opportunities in data analytics. I enjoy transforming raw data into actionable insights through data cleaning, modeling, analysis, and visualization.
 
 My work focuses on building end-to-end analytics solutions using SQL, Power BI, Excel, and Power Query to support data-driven decision-making.
 
@@ -40,10 +40,6 @@ My work focuses on building end-to-end analytics solutions using SQL, Power BI, 
 - pgAdmin
 - Git & GitHub
 
-### Programming
-- Python (Beginner)
-- HTML/CSS (Beginner)
-
 ## Featured Projects
 
 ### Toronto Airbnb Analysis
@@ -61,7 +57,7 @@ Key highlights:
 
 ➡️ View Project: https://github.com/Yosias-T/Toronto-Airbnb-Analysis
 
-## Currently Learning
+## Next Areas of Focus
 
 - Advanced Power BI report design and data storytelling
 - Advanced SQL for analytics and performance optimization
